@@ -1,0 +1,40 @@
+D:\Directory\Семестрове завдання\bin\Debug\Семестрове завдання.exe.config
+D:\Directory\Семестрове завдання\bin\Debug\Семестрове завдання.exe
+D:\Directory\Семестрове завдання\bin\Debug\Семестрове завдання.pdb
+D:\Directory\Семестрове завдання\obj\Debug\Семестрове завдання.csproj.AssemblyReference.cache
+D:\Directory\Семестрове завдання\obj\Debug\Семестрове_завдання.fMain.resources
+D:\Directory\Семестрове завдання\obj\Debug\Семестрове_завдання.Properties.Resources.resources
+D:\Directory\Семестрове завдання\obj\Debug\Семестрове завдання.csproj.GenerateResource.cache
+D:\Directory\Семестрове завдання\obj\Debug\Семестрове завдання.csproj.CoreCompileInputs.cache
+D:\Directory\Семестрове завдання\obj\Debug\Семестрове завдання.exe
+D:\Directory\Семестрове завдання\obj\Debug\Семестрове завдання.pdb
+D:\Directory\Семестрове завдання (1) — копия\bin\Debug\Семестрове завдання.exe.config
+D:\Directory\Семестрове завдання (1) — копия\bin\Debug\Семестрове завдання.exe
+D:\Directory\Семестрове завдання (1) — копия\bin\Debug\Семестрове завдання.pdb
+D:\Directory\Семестрове завдання (1) — копия\obj\Debug\Семестрове завдання.csproj.AssemblyReference.cache
+D:\Directory\Семестрове завдання (1) — копия\obj\Debug\Семестрове_завдання.fMain.resources
+D:\Directory\Семестрове завдання (1) — копия\obj\Debug\Семестрове_завдання.Properties.Resources.resources
+D:\Directory\Семестрове завдання (1) — копия\obj\Debug\Семестрове завдання.csproj.GenerateResource.cache
+D:\Directory\Семестрове завдання (1) — копия\obj\Debug\Семестрове завдання.csproj.CoreCompileInputs.cache
+D:\Directory\Семестрове завдання (1) — копия\obj\Debug\Семестрове завдання.exe
+D:\Directory\Семестрове завдання (1) — копия\obj\Debug\Семестрове завдання.pdb
+D:\Directory\Семестрове завдання. Варіант 24\bin\Debug\Семестрове завдання.exe.config
+D:\Directory\Семестрове завдання. Варіант 24\bin\Debug\Семестрове завдання.exe
+D:\Directory\Семестрове завдання. Варіант 24\bin\Debug\Семестрове завдання.pdb
+D:\Directory\Семестрове завдання. Варіант 24\obj\Debug\Семестрове завдання.csproj.AssemblyReference.cache
+D:\Directory\Семестрове завдання. Варіант 24\obj\Debug\Семестрове_завдання.fMain.resources
+D:\Directory\Семестрове завдання. Варіант 24\obj\Debug\Семестрове_завдання.Properties.Resources.resources
+D:\Directory\Семестрове завдання. Варіант 24\obj\Debug\Семестрове завдання.csproj.GenerateResource.cache
+D:\Directory\Семестрове завдання. Варіант 24\obj\Debug\Семестрове завдання.csproj.CoreCompileInputs.cache
+D:\Directory\Семестрове завдання. Варіант 24\obj\Debug\Семестрове завдання.exe
+D:\Directory\Семестрове завдання. Варіант 24\obj\Debug\Семестрове завдання.pdb
+D:\Directory\Semestrove-main\Semestrove\Семестрове завдання. Варіант 24\bin\Debug\Семестрове завдання.exe.config
+D:\Directory\Semestrove-main\Semestrove\Семестрове завдання. Варіант 24\bin\Debug\Семестрове завдання.exe
+D:\Directory\Semestrove-main\Semestrove\Семестрове завдання. Варіант 24\bin\Debug\Семестрове завдання.pdb
+D:\Directory\Semestrove-main\Semestrove\Семестрове завдання. Варіант 24\obj\Debug\Семестрове завдання.csproj.AssemblyReference.cache
+D:\Directory\Semestrove-main\Semestrove\Семестрове завдання. Варіант 24\obj\Debug\Семестрове_завдання.fMain.resources
+D:\Directory\Semestrove-main\Semestrove\Семестрове завдання. Варіант 24\obj\Debug\Семестрове_завдання.Properties.Resources.resources
+D:\Directory\Semestrove-main\Semestrove\Семестрове завдання. Варіант 24\obj\Debug\Семестрове завдання.csproj.GenerateResource.cache
+D:\Directory\Semestrove-main\Semestrove\Семестрове завдання. Варіант 24\obj\Debug\Семестрове завдання.csproj.CoreCompileInputs.cache
+D:\Directory\Semestrove-main\Semestrove\Семестрове завдання. Варіант 24\obj\Debug\Семестрове завдання.exe
+D:\Directory\Semestrove-main\Semestrove\Семестрове завдання. Варіант 24\obj\Debug\Семестрове завдання.pdb
